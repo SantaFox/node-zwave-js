@@ -60,7 +60,8 @@ Can be used to add instructions for the user to a device:
 "metadata": {
 	"inclusion": "How to include this device",
 	"exclusion": "How to exclude this device",
-	"reset": "How to factory-reset this device"
+	"reset": "How to factory-reset this device",
+	"manual": "Full URL of online pulbicly available PDF file"
 }
 ```
 
