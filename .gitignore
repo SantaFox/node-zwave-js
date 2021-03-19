@@ -32,3 +32,4 @@ zwave-js-*.tgz
 
 .secrets
 .test-payloads
+.DS_Store
